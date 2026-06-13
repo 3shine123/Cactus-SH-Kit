@@ -1,6 +1,6 @@
 # Cactus-SH-Kit
 
-This repository serves as a GitHub-hosted backup of my personal source code, featuring terminal scripts and C-based utilities developed with Vibe Code. It is primarily designed to optimize command-line efficiency (with shell scripts offering faster execution) while ensuring my private tools are safely backed up and synced across devices. 
+This repository is a vibe-coded, GitHub-hosted collection of my personal source code, featuring terminal scripts and C-based utilities. It is primarily designed to ensure my private tools are safely backed up and synced across devices, while optimizing daily command-line efficiency (with shell scripts offering faster execution).
 
 You can seamlessly integrate these utilities into your own shell configuration file to run on terminal startup, trigger via aliases, or invoke as custom functions.
 
@@ -18,9 +18,6 @@ Run the installation script to deploy the utilities to your user home directory 
 ```bash
 ./install.sh
 ```
-
-
-
 
 ### 2. Shell Integration
 

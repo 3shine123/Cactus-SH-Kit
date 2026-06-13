@@ -11,9 +11,9 @@ You can seamlessly integrate these utilities into your own shell configuration f
 
 ## 📷 Screenshots
 
-<img src="file:///Users/cactus/cactus-sh-kit/screenshots/截屏2026-06-14%2000.15.18.png" title="" alt="截屏2026-06-14 00.15.18.png" width="516">
+<img title="" src="./screenshots/截屏2026-06-14%2000.15.18.png" alt="截屏2026-06-14 00.15.18.png" width="516">
 
-![截屏2026-06-14 00.15.32.png](/Users/cactus/cactus-sh-kit/screenshots/截屏2026-06-14%2000.15.32.png)
+![截屏2026-06-14 00.15.32.png](./screenshots/截屏2026-06-14%2000.15.32.png)
 
 ## ⚙️ Installation & Configuration
 

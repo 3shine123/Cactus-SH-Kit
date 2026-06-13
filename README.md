@@ -19,10 +19,10 @@ You can seamlessly integrate these utilities into your own shell configuration f
 
 ### 1. Base Installation
 
-Run the installation script to deploy the utilities to your user home directory (`~/`):
+Run the installation script to deploy the utilities to your `/usr/local/share/` directory:
 
 ```bash
-./install.sh
+sudo ./install.sh
 ```
 
 ### 2. Shell Integration
@@ -31,7 +31,7 @@ Depending on your personal workflow and preferences, you can integrate these too
 
 - **Manual Trigger (Alias)**: Set up a custom `alias` to launch the tools manually when needed.
 
-- **Auto-start**: Add `. ~/xxx.sh` (or `source ~/xxx.sh`) to your configuration file to execute them automatically whenever a new terminal session is opened.
+- **Auto-start**: Add `. ~/xxx.sh` (or `source ~/xxx.sh`) to your shell configuration file to execute them automatically whenever a new terminal session is opened.
 
 - **Custom Function**: Wrap the script logic into a dedicated shell function so you can execute it instantly by typing your custom command.
 

@@ -1,0 +1,7 @@
+# macOS 文件夹元数据文件
+.DS_Store
+.AppleDouble
+.LSOverride
+   
+# 缩略图
+._*

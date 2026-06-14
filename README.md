@@ -7,13 +7,15 @@ You can seamlessly integrate these utilities into your own shell configuration f
 ## 📦 Core Utilities
 
 * **welcome&status**: A script that displays a welcome message and basic system status information. While its functionality overlaps with various existing `fetch` tools, it provides a lighter and more tailored alternative for daily use.
-* **shorts&funcs**: Features the `hp` command, which allows you to quickly inspect custom aliases and functions defined within your `~/.zshrc`, `~/.bashrc`, or `~/.profile`.
+* **shorts&funcs**: Features the `hp` command to quickly inspect your system **`$PATH` (with dead-path detection)**, custom aliases, and interactive functions defined within your `~/.zshrc`, `~/.bashrc`, or `~/.profile`.
 
 ## 📷 Screenshots
 
-<img title="" src="./screenshots/截屏2026-06-14%2000.15.18.png" alt="截屏2026-06-14 00.15.18.png" width="516">
+<img title="" src="./screenshots/截屏2026-06-14%2000.15.18.png" alt="截屏2026-06-14 00.15.18.png" width="516" data-align="center">
 
-![截屏2026-06-14 00.15.32.png](./screenshots/截屏2026-06-14%2000.15.32.png)
+<img src="./screenshots/截屏2026-06-14%2000.15.32.png" title="" alt="截屏2026-06-14 00.15.32.png" data-align="center">
+
+<img title="" src="./screenshots/截屏2026-06-14%2009.53.12.png" alt="截屏2026-06-14 09.53.12.png" data-align="center">
 
 ## ⚙️ Installation & Configuration
 
